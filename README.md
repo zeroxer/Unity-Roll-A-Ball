@@ -5,3 +5,7 @@
 
 - Unity: 2020.1.14
 - Platform: Windows 10 64bit
+
+# ScreenShot
+
+![Game](./screenshot.png)
